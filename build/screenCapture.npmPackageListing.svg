@@ -1,0 +1,50 @@
+<svg height="750" width="720" xmlns="http://www.w3.org/2000/svg">
+<rect height="750" fill="#555" width="720"></rect>
+<text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
+<tspan x="10" y="26">  0.  2017-04-18 10:04:14 +0000  7895310 bytes  .</tspan>
+<tspan x="10" y="42">  1.  2017-04-18 10:04:14 +0000     1109 bytes  LICENSE.md</tspan>
+<tspan x="10" y="58">  2.  2017-04-18 10:04:14 +0000     4679 bytes  README.md</tspan>
+<tspan x="10" y="74">  3.  2017-04-18 10:04:14 +0000       39 bytes  index.js</tspan>
+<tspan x="10" y="90">  4.  2017-04-18 10:04:14 +0000     1683 bytes  lib/exif/Buffer.js</tspan>
+<tspan x="10" y="106">  5.  2017-04-18 10:04:14 +0000    35528 bytes  lib/exif/ExifImage.js</tspan>
+<tspan x="10" y="122">  6.  2017-04-18 10:04:14 +0000       40 bytes  lib/exif/index.js</tspan>
+<tspan x="10" y="138">  7.  2017-04-18 10:04:14 +0000     4704 bytes  lib/exif/makernotes/agfa.js</tspan>
+<tspan x="10" y="154">  8.  2017-04-18 10:04:14 +0000     4708 bytes  lib/exif/makernotes/epson.js</tspan>
+<tspan x="10" y="170">  9.  2017-04-18 10:04:14 +0000     2577 bytes  lib/exif/makernotes/fujifilm.js</tspan>
+<tspan x="10" y="186"> 10.  2017-04-18 10:04:14 +0000     4664 bytes  lib/exif/makernotes/olympus.js</tspan>
+<tspan x="10" y="202"> 11.  2017-04-18 10:04:14 +0000     4028 bytes  lib/exif/makernotes/panasonic.js</tspan>
+<tspan x="10" y="218"> 12.  2017-04-18 10:04:14 +0000     1978 bytes  lib/exif/makernotes/sanyo.js</tspan>
+<tspan x="10" y="234"> 13.  2017-04-18 10:04:14 +0000     2258 bytes  package.json</tspan>
+<tspan x="10" y="250"> 14.  2017-04-18 10:04:14 +0000     4498 bytes  test/api-test.js</tspan>
+<tspan x="10" y="266"> 15.  2017-04-18 10:04:14 +0000    15437 bytes  test/down-mirrored.jpg</tspan>
+<tspan x="10" y="282"> 16.  2017-04-18 10:04:14 +0000     1049 bytes  test/down-mirrored.jpg.expected</tspan>
+<tspan x="10" y="298"> 17.  2017-04-18 10:04:14 +0000      172 bytes  test/down-mirrored.jpg.json</tspan>
+<tspan x="10" y="314"> 18.  2017-04-18 10:04:14 +0000    86490 bytes  test/evil1.jpg</tspan>
+<tspan x="10" y="330"> 19.  2017-04-18 10:04:14 +0000     1160 bytes  test/evil1.jpg.expected</tspan>
+<tspan x="10" y="346"> 20.  2017-04-18 10:04:14 +0000     1770 bytes  test/evil1.jpg.json</tspan>
+<tspan x="10" y="362"> 21.  2017-04-18 10:04:14 +0000      897 bytes  test/lens_info.jpg</tspan>
+<tspan x="10" y="378"> 22.  2017-04-18 10:04:14 +0000     1082 bytes  test/lens_info.jpg.expected</tspan>
+<tspan x="10" y="394"> 23.  2017-04-18 10:04:14 +0000      473 bytes  test/lens_info.jpg.json</tspan>
+<tspan x="10" y="410"> 24.  2017-04-18 10:04:14 +0000     5990 bytes  test/right.jpg</tspan>
+<tspan x="10" y="426"> 25.  2017-04-18 10:04:14 +0000     1049 bytes  test/right.jpg.expected</tspan>
+<tspan x="10" y="442"> 26.  2017-04-18 10:04:14 +0000      172 bytes  test/right.jpg.json</tspan>
+<tspan x="10" y="458"> 27.  2017-04-18 10:04:14 +0000   892668 bytes  test/short-ascii-II.jpg</tspan>
+<tspan x="10" y="474"> 28.  2017-04-18 10:04:14 +0000     1124 bytes  test/short-ascii-II.jpg.expected</tspan>
+<tspan x="10" y="490"> 29.  2017-04-18 10:04:14 +0000     9427 bytes  test/short-ascii-II.jpg.json</tspan>
+<tspan x="10" y="506"> 30.  2017-04-18 10:04:14 +0000    31818 bytes  test/short-ascii-MM.jpg</tspan>
+<tspan x="10" y="522"> 31.  2017-04-18 10:04:14 +0000     1129 bytes  test/short-ascii-MM.jpg.expected</tspan>
+<tspan x="10" y="538"> 32.  2017-04-18 10:04:14 +0000     2590 bytes  test/short-ascii-MM.jpg.json</tspan>
+<tspan x="10" y="554"> 33.  2017-04-18 10:04:14 +0000  6586368 bytes  test/sony-alpha-6000.jpg</tspan>
+<tspan x="10" y="570"> 34.  2017-04-18 10:04:14 +0000     1202 bytes  test/sony-alpha-6000.jpg.expected</tspan>
+<tspan x="10" y="586"> 35.  2017-04-18 10:04:14 +0000   108619 bytes  test/sony-alpha-6000.jpg.json</tspan>
+<tspan x="10" y="602"> 36.  2017-04-18 10:04:14 +0000    27521 bytes  test/test1.jpg</tspan>
+<tspan x="10" y="618"> 37.  2017-04-18 10:04:14 +0000     1145 bytes  test/test1.jpg.expected</tspan>
+<tspan x="10" y="634"> 38.  2017-04-18 10:04:14 +0000     1289 bytes  test/test1.jpg.json</tspan>
+<tspan x="10" y="650"> 39.  2017-04-18 10:04:14 +0000    11260 bytes  test/test2.jpg</tspan>
+<tspan x="10" y="666"> 40.  2017-04-18 10:04:14 +0000     1144 bytes  test/test2.jpg.expected</tspan>
+<tspan x="10" y="682"> 41.  2017-04-18 10:04:14 +0000     1170 bytes  test/test2.jpg.json</tspan>
+<tspan x="10" y="698"> 42.  2017-04-18 10:04:14 +0000    26133 bytes  test/test3.jpg</tspan>
+<tspan x="10" y="714"> 43.  2017-04-18 10:04:14 +0000     1145 bytes  test/test3.jpg.expected</tspan>
+<tspan x="10" y="730"> 44.  2017-04-18 10:04:14 +0000     1324 bytes  test/test3.jpg.json</tspan>
+</text>
+</svg>
